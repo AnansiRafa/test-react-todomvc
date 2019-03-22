@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: pink;
+  font-family: "Montserrat", sans-serif;
+}
+
+.complete {
+  text-decoration: line-through;
+}
+
+.destroy {
+  cursor: pointer;
+  color: red;
+}
+
+li {
+  list-style-type: none;
+}
+
+.form {
+  margin-top: 25px;
+}
+
+.todo {
+  margin-top: 25px;
+  margin-right: 50px;
+}
+
+.textform {
+  margin-bottom: 10px;
+}
+
+.btn-light {
+  margin-bottom: 10px;
+}
