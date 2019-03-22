@@ -17,3 +17,6 @@ $ npm install
 $ npm start
 ```
 
+## Entering and Modifying Items
+
+New todos are created by entering a value into the provided text field. Each item can be marked completed by clcking its accompanying checkbox, or deleted by hovering over the item and clicking the red trashcan icon.
